@@ -8,7 +8,7 @@
 
 :toc!:
 
-== Blogging with GitHub Pages and Asciidoc
+== Blogging with GitHub Pages and Asciidoc --
 
 *2023-05-10*
 My name is Ayşegül. I am a computer engineer. This is my personal blog.
