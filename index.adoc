@@ -18,5 +18,5 @@ My name is Ayşegül. I am a computer engineer. This is my personal blog.
 
 ** This is third github commit
 
-** THis is 4th commit
+** This is 4th commit
 
