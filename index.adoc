@@ -24,3 +24,5 @@ My name is Ayşegül. I am a computer engineer. This is my personal blog.
 
 **6th commit
 
+**7th commit
+
