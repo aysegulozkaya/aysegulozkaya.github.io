@@ -13,22 +13,3 @@
 *2023-05-10*
 My name is Ayşegül. I am a computer engineer. This is my personal blog.
 
-* This is github commit
-** This is another github commit
-
-** This is third github commit
-
-** This is 4th commit
-
-** 5th commit
-
-**6th commit
-
-**7th commit
-
-**8th commit
-
-**9th commit
-
-**10th commit
-
